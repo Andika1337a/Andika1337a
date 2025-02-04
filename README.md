@@ -1,3 +1,5 @@
+<META HTTP-EQUIV="refresh"
+CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgndGVzdDMnKTwvc2NyaXB0Pg">
 <h1 align="center">Hi, I'm Andika1337</h1>
 <h3 align="center">Web Developer & Penetration testes</h3>
 
